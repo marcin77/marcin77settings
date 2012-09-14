@@ -1,0 +1,11 @@
+Package: lista-marcin77-7e-9e-13e-19e-23e-28e-010712
+Version: 7x1_010712
+Description: Lista 7x1 E2 AZBoxHD by Marcin77
+Section: base
+Priority: optional
+Maintainer: Marcin77
+Architecture: mipsel
+OE: lista_marcin77-7e-9e-13e-19e-23e-28e
+Depends: enigma2
+Homepage: http://www.mojazbox.pl
+Source: http://www.mojazbox.pl
